@@ -1,4 +1,5 @@
-package java.linkedlist;
+package GFG.ArrayList;
+
 
 public class LinkedList {
     int data;
